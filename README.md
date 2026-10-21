@@ -3,7 +3,13 @@
 
 # Hi, I'm Muskan Padhan 👋
 
-### Data Analytics | Data Science | Machine Learning | AI
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Analytics+%26+Business+Intelligence;Data+Science+Enthusiast;Machine+Learning+%26+AI" alt="Typing SVG" />
+  </a>
+</p>
+
 
 *Turning data into insights and building intelligent solutions.*
 
@@ -57,86 +63,106 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
+<h2 align="center">🚀 Featured Projects</h2>
 
-## 📂 Featured Projects
+<p align="center">
+  <i>Exploring data, building intelligent solutions, and turning insights into impact.</i>
+</p>
 
-📊 Data Analytics & Business Intelligence
 
-1. Job Market Demand Analysis Dashboard — Employment & HR Analytics
+<table>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>📊 Job Market Demand Analysis</h3>
+      <p>Analyze job postings, in-demand skills, hiring trends, companies, and locations to uncover career insights.</p>
+      <p><strong>Tools:</strong> Python · SQL · Power BI · Pandas · NumPy · Streamlit</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data_Analytics-EC4899?style=flat-square" alt="Data Analytics" />
+        <img src="https://img.shields.io/badge/Visualization-9D174D?style=flat-square" alt="Visualization" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>🤖 Customer Churn Prediction &amp; BI</h3>
+      <p>Explore customer churn patterns, prepare data, build predictive models, and present business insights through BI dashboards.</p>
+      <p><strong>Tools:</strong> Python · SQL · Scikit-learn · Power BI</p>
+      <p>
+        <img src="https://img.shields.io/badge/Machine_Learning-EC4899?style=flat-square" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Business_Intelligence-9D174D?style=flat-square" alt="Business Intelligence" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>♻️ Smart Waste Classification</h3>
+      <p>Classify waste images into organic, recyclable, and non-recyclable categories using computer vision.</p>
+      <p><strong>Tools:</strong> Python · TensorFlow · OpenCV · CNN · Streamlit · ESP32</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Vision-EC4899?style=flat-square" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/Deep_Learning-9D174D?style=flat-square" alt="Deep Learning" />
+      </p>
+      <p>
+        <a href="https://github.com/Padhanmuskan/Waste-sorting-using-image-recognition">
+          <img src="https://img.shields.io/badge/↗_View_Repository-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+        <a href="https://github.com/Padhanmuskan/Waste-sorting-using-image-recognition">
+          <img src="https://img.shields.io/badge/⌘_Explore_Code-9D174D?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>⚡ Indian EV Market Intelligence</h3>
+      <p>Explore electric vehicle market trends, adoption patterns, and insights using data analysis and visualization.</p>
+      <p><strong>Tools:</strong> Python · SQL · Power BI · Pandas · Excel</p>
+      <p>
+        <img src="https://img.shields.io/badge/Market_Analysis-EC4899?style=flat-square" alt="Market Analysis" />
+        <img src="https://img.shields.io/badge/Dashboards-9D174D?style=flat-square" alt="Dashboards" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>🛍️ Retail Sales &amp; Customer Insights</h3>
+      <p>Analyze sales performance, customer behavior, and product trends to support data-driven decisions.</p>
+      <p><strong>Tools:</strong> Python · SQL · Power BI · Pandas · Excel</p>
+      <p>
+        <img src="https://img.shields.io/badge/Sales_Analytics-EC4899?style=flat-square" alt="Sales Analytics" />
+        <img src="https://img.shields.io/badge/Reporting-9D174D?style=flat-square" alt="Reporting" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>🏥 Medical Readmission Prediction</h3>
+      <p>Explore machine learning approaches to predicting hospital readmission risk and compare model performance.</p>
+      <p><strong>Tools:</strong> Python · Scikit-learn · Pandas · Streamlit</p>
+      <p>
+        <img src="https://img.shields.io/badge/Predictive_Analytics-EC4899?style=flat-square" alt="Predictive Analytics" />
+        <img src="https://img.shields.io/badge/Machine_Learning-9D174D?style=flat-square" alt="Machine Learning" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px solid #EC4899; padding:18px; border-radius:12px;">
+      <h3>🍽️ Restaurant Data Analysis</h3>
+      <p>Practice data cleaning, exploratory analysis, and visualization to discover patterns in restaurant data.</p>
+      <p><strong>Tools:</strong> Python · Pandas · Matplotlib</p>
+      <p>
+        <img src="https://img.shields.io/badge/EDA-EC4899?style=flat-square" alt="Exploratory Data Analysis" />
+        <img src="https://img.shields.io/badge/Data_Cleaning-9D174D?style=flat-square" alt="Data Cleaning" />
+      </p>
+      <p><em>Repository link to be added</em></p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#101014; border:2px dashed #9D174D; padding:18px; border-radius:12px;">
+      <h3>✨ More Projects Coming Soon</h3>
+      <p>I'm continuing to build projects in data analytics, business intelligence, machine learning, and AI.</p>
+      <p><strong>Focus:</strong> Practical projects · Clear documentation · Business insights</p>
+    </td>
+  </tr>
+</table>
 
-Tech Stack: Python · SQL · Power BI · Pandas · NumPy · Matplotlib · Streamlit
-
-Analyzed 55,000+ job postings across 1,500+ companies, 30+ job roles, and 25+ locations.
-
-Performed data cleaning, exploratory data analysis, and SQL querying to identify hiring trends, in-demand skills, and salary patterns.
-
-Built an interactive Power BI dashboard featuring KPI cards, skill-demand analysis, hiring trends, and location-based insights.
-
-2. Indian EV Market Intelligence Dashboard
-
-Tech Stack: Python · SQL · Power BI · Pandas · Excel
-
-Analyzed India's electric vehicle market, including sales trends, manufacturer performance, state-wise adoption, and market growth.
-
-Cleaned and transformed datasets to uncover market trends and business insights.
-
-Designed an interactive Power BI dashboard with KPI tracking, market-share analysis, geographic visualizations, and forecasting.
-
-3. Retail Sales & Customer Insights Dashboard
-
-Tech Stack: Python · SQL · Power BI · Pandas · Excel
-
-Analyzed retail transactions to understand revenue trends, customer behavior, product performance, and regional sales.
-
-Used data cleaning, SQL analysis, and exploratory data analysis to improve reporting and identify business insights.
-
-Developed a Power BI dashboard featuring sales KPIs, customer segmentation, product analysis, and profitability metrics.
-
-4. Restaurant Data Analysis Dashboard
-
-Tech Stack: Power BI · [Add other tools used]
-
-Explored restaurant data to identify trends and compare relevant performance metrics.
-
-Created interactive visualizations to present findings through a Power BI dashboard.
-
-Learning project developed by following a tutorial, with any modifications documented separately.
-
-🤖 Data Science, Machine Learning & AI
-
-5. Customer Churn Prediction & Business Intelligence
-
-Tech Stack: Python · SQL · Scikit-learn · Pandas · Power BI
-
-Developed a customer churn prediction pipeline using Logistic Regression, Decision Tree, Random Forest, and XGBoost.
-
-Achieved 91% accuracy and a 0.90 F1-score on held-out data, according to project evaluation.
-
-Applied feature engineering and hyperparameter tuning to improve model performance.
-
-Built a Power BI dashboard to explore customer segments, churn patterns, and revenue at risk.
-
-6. AI-Powered Smart Waste Classification & Automated Segregation
-
-Tech Stack: Python · TensorFlow · OpenCV · CNN · Streamlit · ESP32
-
-Developed a CNN-based image classification system for Organic, Recyclable, and Non-Recyclable waste.
-
-Achieved approximately 94% classification accuracy on the test dataset.
-
-Applied image preprocessing and data augmentation to improve model robustness.
-
-Integrated the trained model with an ESP32-controlled smart dustbin and servo-motor-based bin selection.
-
-7. Medical Readmission Prediction
-
-Tech Stack: Python · Pandas · Scikit-learn · Streamlit
-
-Explored machine learning approaches for predicting patient readmission.
-
-Implemented and compared classification models, including Logistic Regression, Decision Tree, Random Forest, SVM, Gradient Boosting, and XGBoost.
-
-Developed a Streamlit application to demonstrate predictions and model evaluation.
 
 📌 Project Documentation
 
